@@ -1,0 +1,2 @@
+# Keep published bytes stable across platforms for SHA-256 verification.
+* -text

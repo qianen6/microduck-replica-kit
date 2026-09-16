@@ -1,0 +1,61 @@
+Duck R9 publication verification — 2026-09-16
+CHANGED_BRANCH: main (fresh root commit; previous publication history not included)
+CHANGED_FIELDS: release_snapshot= r9_2026_09_16; publication_metadata= sanitized; readme.community= included
+MODIFIED_FILE: README.md
+DIFF_FILE: proof/DIFF_FILE.diff
+VERIFICATION: VERIFICATION.txt
+ROLLBACK: ROLLBACK.sh
+Working directory: repository root. Host executable paths and temporary target paths are normalized below; no personal paths are published.
+
+BASELINE
+COMMAND: python tools/verify_publication.py baseline
+INPUT: proof/README.original.md
+LITERAL_OUTPUT: BASELINE PASS readme=PRE_R9 hash=MATCH
+STDERR: 
+EXIT_STATUS: 0
+
+ROLLBACK_EXECUTION
+COMMAND: bash -c "export PATH=/usr/bin:$PATH; chmod +x ROLLBACK.sh; ./ROLLBACK.sh \"$ROLLBACK_TARGET\""
+INPUT: independent copy of current README; ROLLBACK_TARGET is the temporary target
+LITERAL_OUTPUT: ROLLBACK_COPY PASS readme=PRE_R9 hash=MATCH
+STDERR: 
+EXIT_STATUS: 0
+
+ROLLBACK
+COMMAND: python tools/verify_publication.py rollback $ROLLBACK_TARGET
+INPUT: temporary README copy
+LITERAL_OUTPUT: ROLLBACK PASS readme=PRE_R9 hash=MATCH
+STDERR: 
+EXIT_STATUS: 0
+
+REGRESSION
+COMMAND: python tools/test_publication_checks.py
+INPUT: 8 synthetic positive/negative privacy tests
+LITERAL_OUTPUT: 
+STDERR: ........
+----------------------------------------------------------------------
+Ran 8 tests in 0.000s
+
+OK
+EXIT_STATUS: 0
+
+MANIFEST
+COMMAND: python tools/verify_publication.py manifest
+INPUT: complete sanitized publication tree
+LITERAL_OUTPUT: MANIFEST PASS files=94
+STDERR: 
+EXIT_STATUS: 0
+
+MODIFIED
+COMMAND: python tools/verify_publication.py modified
+INPUT: README plus complete sanitized publication tree
+LITERAL_OUTPUT: MODIFIED PASS stl=39 3mf_parts=11 support=1 privacy_findings=0 links=OK hashes=OK
+STDERR: 
+EXIT_STATUS: 0
+
+ORIGINAL_README_SHA256: 652e671f66b06f600daa0919746373deb753d7b2647168f19c20f1a644925b8e
+MODIFIED_README_SHA256: 7eed4877a084539427fc671c172b758458fd890f4833fafefc4326f533fe8181
+RESTORED_STATUS: independent README copy restored byte-for-byte to PRE_R9. Published README remains R9 with community QR. Original workspace files unchanged.
+BLENDER: reopened sanitized model; 113 objects, 39 print parts, geometry/transforms/parenting/material assignments unchanged; embedded scripts/images/libraries absent. Fixed-size file-browser directory padding cleared.
+3MF: 13 geometry members byte-identical; 11 objects; support remains enabled. Cached thumbnails and slice metadata removed. No slicing or printing was performed during publication.
+Earlier preparation checks detected and corrected URL normalization, saved Blender browser metadata, and shell PATH invocation issues; final tests above passed. These checks do not certify physical/electrical readiness.

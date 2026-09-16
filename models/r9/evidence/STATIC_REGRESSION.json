@@ -1,0 +1,105 @@
+{
+  "method": "closed-mesh intersection volumes, neutral pose; current kinematic motor proxies, not physical certification",
+  "baseline_zero_area_analysis_repairs": [
+    "PART_30_jaw_soft_face_part"
+  ],
+  "changed_meshes": 13,
+  "regressions_over_0p1_mm3": [],
+  "pairs": [
+    {
+      "a": "PART_03_trunk_base_banana_pcb_locker",
+      "b": "PART_05_trunk_base_power_support",
+      "before_mm3": 13.251898706939755,
+      "after_mm3": 13.25190871934683,
+      "delta_mm3": 1.0012407074100338e-05
+    },
+    {
+      "a": "PART_04_trunk_base_trunk_base",
+      "b": "SERVO_HD1910_01_trunk_base",
+      "before_mm3": 9.027880752992916,
+      "after_mm3": 9.027880148805695,
+      "delta_mm3": -6.04187221142638e-07
+    },
+    {
+      "a": "PART_04_trunk_base_trunk_base",
+      "b": "SERVO_HD1910_02_trunk_base",
+      "before_mm3": 9.027881285482751,
+      "after_mm3": 9.027879649951652,
+      "delta_mm3": -1.6355310989979444e-06
+    },
+    {
+      "a": "PART_09_yaw2roll_yaw2roll",
+      "b": "SERVO_HD1910_01_trunk_base",
+      "before_mm3": 15.541609483934403,
+      "after_mm3": 15.541608121255678,
+      "delta_mm3": -1.3626787254139572e-06
+    },
+    {
+      "a": "PART_09_yaw2roll_yaw2roll",
+      "b": "SERVO_HD1910_03_yaw2roll",
+      "before_mm3": 426.21064003140776,
+      "after_mm3": 393.0366575872644,
+      "delta_mm3": -33.17398244414335
+    },
+    {
+      "a": "PART_11_yaw2roll_bearing_roll",
+      "b": "SERVO_HD1910_03_yaw2roll",
+      "before_mm3": 9.027873388012324,
+      "after_mm3": 9.027873388012315,
+      "delta_mm3": -8.881784197001252e-15
+    },
+    {
+      "a": "PART_17_leg_leg",
+      "b": "SERVO_HD1910_06_leg",
+      "before_mm3": 386.36425501339824,
+      "after_mm3": 324.8183147090108,
+      "delta_mm3": -61.54594030438744
+    },
+    {
+      "a": "PART_26_yaw_roll_motion_yaw_roll_motion",
+      "b": "SERVO_HD1910_09_yaw_roll_motion",
+      "before_mm3": 398.3347313256577,
+      "after_mm3": 332.0121399543502,
+      "delta_mm3": -66.32259137130751
+    },
+    {
+      "a": "PART_43_bearing_roll_yaw2roll",
+      "b": "SERVO_HD1910_02_trunk_base",
+      "before_mm3": 15.541609009918856,
+      "after_mm3": 15.541608747949661,
+      "delta_mm3": -2.6196919478138625e-07
+    },
+    {
+      "a": "PART_43_bearing_roll_yaw2roll",
+      "b": "SERVO_HD1910_12_bearing_roll",
+      "before_mm3": 426.21065383577735,
+      "after_mm3": 393.0366803965691,
+      "delta_mm3": -33.173973439208225
+    },
+    {
+      "a": "PART_44_bearing_roll_bearing_roll",
+      "b": "SERVO_HD1910_12_bearing_roll",
+      "before_mm3": 9.027874021030934,
+      "after_mm3": 9.027874021030954,
+      "delta_mm3": 1.9539925233402755e-14
+    },
+    {
+      "a": "PART_51_leg_2_leg",
+      "b": "SERVO_HD1910_15_leg_2",
+      "before_mm3": 386.3642570572024,
+      "after_mm3": 324.81761323694025,
+      "delta_mm3": -61.54664382026215
+    }
+  ],
+  "non_closed_pairs_unresolved": [
+    [
+      "HW_R7_OPENRB150_OFFICIAL",
+      "PART_26_yaw_roll_motion_yaw_roll_motion"
+    ],
+    [
+      "HW_R7_OPENRB150_OFFICIAL",
+      "R9_OV5647_CAMERA_CARRIER"
+    ]
+  ],
+  "all_modified_meshes_closed": true
+}

@@ -1,0 +1,87 @@
+[
+  {
+    "source": "deliverables/r9-evidence-based-2026-09-13/ENGINEERING_REVIEW.md",
+    "published": "docs/current/engineering-review.md",
+    "source_sha256": "4c4f6479ea2d192d3235e77f09b4a2e2d5664cfaa01f93c2915c8b0c9cbeae6e"
+  },
+  {
+    "source": "deliverables/r8-fastener-audit-2026-09-12/SCREW_AUDIT.md",
+    "published": "docs/history/r8-fastener-audit.md",
+    "source_sha256": "285307f0db2cd508bfb7aa22fc6c96e795df2e9e5fb5b4a9cabba986baecd93f"
+  },
+  {
+    "source": "deliverables/r8-fastener-audit-2026-09-12/COMBINED_PURCHASE_SECTION.md",
+    "published": "docs/history/r8-purchase-reference.md",
+    "source_sha256": "a8ad47a8d323374da44f6ca693ffca149362f62571ffce96e04b19b82e0e32d3"
+  },
+  {
+    "source": "deliverables/assembly-wiring-fasteners-2026-09-09/READ_ME.md",
+    "published": "docs/history/r7-assembly-wiring.md",
+    "source_sha256": "d3545d6533b30d2050243b1ff53e6bc6518f8486bca081edc5273aa8a5be00f5"
+  },
+  {
+    "source": "deliverables/assembly-wiring-fasteners-2026-09-09/CABLE_LENGTHS.md",
+    "published": "docs/history/r7-cable-lengths.md",
+    "source_sha256": "ed554763dedf967d7501e9a328f810dca9ffcf9244e5c88e5b7cb821141995ce"
+  },
+  {
+    "source": "deliverables/assembly-wiring-fasteners-2026-09-09/FASTENER_SCHEDULE.md",
+    "published": "docs/history/r7-fastener-schedule.md",
+    "source_sha256": "c29c3d3c5e5553efbbc494e35122ff8f2a7e9815bfa7a00fd25d59f97c9c9067"
+  },
+  {
+    "source": "deliverables/hardware-wiring-2026-09-08/CONNECTIONS.md",
+    "published": "docs/history/r6-connections.md",
+    "source_sha256": "80a5f073d76966fb25402a3e68306b91d034449493213794f985c922e9444320"
+  },
+  {
+    "source": "docs/manufacturing/MATERIAL_GUIDE_REFERENCE.md",
+    "published": "docs/history/material-guide.md",
+    "source_sha256": "23f80278ed58a6f8bca1b335a24188f86b068e20344d1e8c0f9187c37ca476b0"
+  },
+  {
+    "source": "hardware/selection/HARDWARE_SELECTION.md",
+    "published": "docs/history/r3-hardware-selection.md",
+    "source_sha256": "5bb833e88acc62682b3b2455ea1750087d5039ecb9bf427208e974ee14f25d57"
+  },
+  {
+    "source": "hardware/selection/IMPLEMENTATION_PLAN_R4.md",
+    "published": "docs/history/r4-implementation.md",
+    "source_sha256": "2876290c4868b454cea6bacf89b878fdb2623dafd9ba72f2a4cf9ee6f90c795b"
+  },
+  {
+    "source": "hardware/selection/R5_RASPBERRY_PI_MIGRATION.md",
+    "published": "docs/history/r5-migration.md",
+    "source_sha256": "5dedcd9d67a77ed478021065ace7489aecd35bbb383848918474bf4503fa0b3e"
+  },
+  {
+    "source": "deliverables/r9-evidence-based-2026-09-13/STATIC_REGRESSION.json",
+    "published": "models/r9/evidence/STATIC_REGRESSION.json",
+    "source_sha256": "38039085c3fe63da3215c64299ef33a6dd65d30a0deff942924b8dc461bf707b"
+  },
+  {
+    "source": "deliverables/r9-evidence-based-2026-09-13/FEATURE_CHECK.json",
+    "published": "models/r9/evidence/FEATURE_CHECK.json",
+    "source_sha256": "0b5a3ce5686eb190baf84bd6223c1a665e3ee19f0268bb56c16ef0a7eaccecda"
+  },
+  {
+    "source": "deliverables/r9-evidence-based-2026-09-13/MOTION_CHECK.json",
+    "published": "models/r9/evidence/MOTION_CHECK.json",
+    "source_sha256": "49333ba10ce6257d90aec1905ea0d13df4ba594950e8b24edf830d648ff53843"
+  },
+  {
+    "source": "deliverables/r9-evidence-based-2026-09-13/OPENRB_SURFACE_CHECK.json",
+    "published": "models/r9/evidence/OPENRB_SURFACE_CHECK.json",
+    "source_sha256": "42eb7397a62c8ef6476c4cb7e69d4f84219246641072b7b244fcc3553c9fdc85"
+  },
+  {
+    "source": "deliverables/r9-evidence-based-2026-09-13/REVISION_PLAN.json",
+    "published": "models/r9/evidence/REVISION_PLAN.json",
+    "source_sha256": "cbd9f8480bce9f9ad4b9efd0489d8b7d157a5e3ee7066d377ceff819a7ecbff9"
+  },
+  {
+    "source": "deliverables/r9-evidence-based-2026-09-13/OPENRB_FACTORY_BRIDGE.ino",
+    "published": "firmware/reference/OPENRB_FACTORY_BRIDGE.ino",
+    "source_sha256": "1256c1f31afa7dfd9efc7782409e146d96b4fd0c055727078adb747a4d25cdc4"
+  }
+]

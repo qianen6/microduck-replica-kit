@@ -1,0 +1,404 @@
+{
+  "changed_branch": "R9_EVIDENCE_BASED_REVISION",
+  "changed_field": "datum_preserving_reinforcement_FT_clearance_camera_mount_battery_cover",
+  "parts": {
+    "PART_30_jaw_soft_face_part": {
+      "description": "Removed degenerate zero-area fragments and closed microscopic mesh seams; original face geometry preserved within 0.001mm simplification tolerance",
+      "parent": "LINK_jaw_soft",
+      "volume_mm3": 5473.744294506269,
+      "watertight": true,
+      "export_stl_watertight": true,
+      "bounds_mm": [
+        [
+          68.9000015258789,
+          -43.91672897338867,
+          110.3145980834961
+        ],
+        [
+          81.40000915527344,
+          43.73397445678711,
+          154.94110107421875
+        ]
+      ]
+    },
+    "PART_04_trunk_base_trunk_base": {
+      "description": "Local reinforcement inspired by FT thickness; original bearing seats and mating datums retained; added stock relieved 0.15mm from neighbouring bounding envelopes",
+      "parent": "LINK_trunk_base",
+      "volume_mm3": 1547.418112357309,
+      "watertight": true,
+      "export_stl_watertight": true,
+      "bounds_mm": [
+        [
+          -19.000001907348633,
+          -28.500001907348633,
+          -2.0
+        ],
+        [
+          17.0,
+          28.500001907348633,
+          2.000000476837158
+        ]
+      ]
+    },
+    "PART_11_yaw2roll_bearing_roll": {
+      "description": "Local reinforcement inspired by FT thickness; original bearing seats and mating datums retained; added stock relieved 0.15mm from neighbouring bounding envelopes",
+      "parent": "LINK_yaw2roll",
+      "volume_mm3": 691.3732535341569,
+      "watertight": true,
+      "export_stl_watertight": true,
+      "bounds_mm": [
+        [
+          15.500000953674316,
+          5.999999523162842,
+          -42.000003814697266
+        ],
+        [
+          19.0,
+          29.0,
+          -2.0000007152557373
+        ]
+      ]
+    },
+    "PART_44_bearing_roll_bearing_roll": {
+      "description": "Local reinforcement inspired by FT thickness; original bearing seats and mating datums retained; added stock relieved 0.15mm from neighbouring bounding envelopes",
+      "parent": "LINK_bearing_roll",
+      "volume_mm3": 691.3732039125053,
+      "watertight": true,
+      "export_stl_watertight": true,
+      "bounds_mm": [
+        [
+          15.500000953674316,
+          -29.000001907348633,
+          -42.000003814697266
+        ],
+        [
+          19.0,
+          -6.000001907348633,
+          -2.0000007152557373
+        ]
+      ]
+    },
+    "PART_17_leg_leg": {
+      "description": "FT-derived local clearance cuts only; original joint datum and outer envelope retained; no unverified FT added bosses adopted",
+      "parent": "LINK_leg",
+      "volume_mm3": 3344.3736301776066,
+      "watertight": true,
+      "export_stl_watertight": true,
+      "bounds_mm": [
+        [
+          -41.777103424072266,
+          32.500003814697266,
+          -87.50001525878906
+        ],
+        [
+          -21.777101516723633,
+          40.45000076293945,
+          -29.500019073486328
+        ]
+      ]
+    },
+    "PART_51_leg_2_leg": {
+      "description": "FT-derived local clearance cuts only; original joint datum and outer envelope retained; no unverified FT added bosses adopted",
+      "parent": "LINK_leg_2",
+      "volume_mm3": 3344.320069174697,
+      "watertight": true,
+      "export_stl_watertight": true,
+      "bounds_mm": [
+        [
+          -41.777099609375,
+          -40.45000076293945,
+          -87.50001525878906
+        ],
+        [
+          -21.777101516723633,
+          -32.500003814697266,
+          -29.500019073486328
+        ]
+      ]
+    },
+    "PART_09_yaw2roll_yaw2roll": {
+      "description": "FT-derived local clearance cuts only; original joint datum and outer envelope retained; no unverified FT added bosses adopted",
+      "parent": "LINK_yaw2roll",
+      "volume_mm3": 2782.8050356321605,
+      "watertight": true,
+      "export_stl_watertight": true,
+      "bounds_mm": [
+        [
+          -8.5,
+          6.000001430511475,
+          -22.5
+        ],
+        [
+          17.299999237060547,
+          29.000001907348633,
+          -2.000000238418579
+        ]
+      ]
+    },
+    "PART_43_bearing_roll_yaw2roll": {
+      "description": "FT-derived local clearance cuts only; original joint datum and outer envelope retained; no unverified FT added bosses adopted",
+      "parent": "LINK_bearing_roll",
+      "volume_mm3": 2782.8130747876075,
+      "watertight": true,
+      "export_stl_watertight": true,
+      "bounds_mm": [
+        [
+          -8.5,
+          -29.000001907348633,
+          -22.5
+        ],
+        [
+          17.299999237060547,
+          -6.000001430511475,
+          -2.000000238418579
+        ]
+      ]
+    },
+    "PART_26_yaw_roll_motion_yaw_roll_motion": {
+      "description": "FT-derived local clearance cuts only; original joint datum and outer envelope retained; no unverified FT added bosses adopted",
+      "parent": "LINK_yaw_roll_motion",
+      "volume_mm3": 4444.033381695394,
+      "watertight": true,
+      "export_stl_watertight": true,
+      "bounds_mm": [
+        [
+          8.100000381469727,
+          -24.5,
+          106.61473083496094
+        ],
+        [
+          44.0,
+          9.5,
+          129.11459350585938
+        ]
+      ]
+    },
+    "HW_OV5647_CAMERA_PCB_REFERENCE": {
+      "description": "User-dimensioned OV5647 PCB outline and four D2 mounting holes; optical centre offset corrected; PCB thickness 1.2mm still an explicit assumption",
+      "parent": "LINK_jaw_soft",
+      "volume_mm3": 704.9425312428453,
+      "watertight": true,
+      "export_stl_watertight": true,
+      "bounds_mm": [
+        [
+          71.6500244140625,
+          -12.591378211975098,
+          120.8646011352539
+        ],
+        [
+          72.85002136230469,
+          12.408621788024902,
+          144.86459350585938
+        ]
+      ]
+    },
+    "R9_OV5647_CAMERA_CARRIER": {
+      "description": "Four D2.4 printed through holes on measured 21x12.5 pattern; D4.6 front screw-head/tool access passages; 3mm nominal rear component clearance; existing face-mount interface reused; physical trial fit required",
+      "parent": "LINK_jaw_soft",
+      "volume_mm3": 1818.642563048738,
+      "watertight": true,
+      "export_stl_watertight": true,
+      "bounds_mm": [
+        [
+          63.68000030517578,
+          -15.191377639770508,
+          119.0645980834961
+        ],
+        [
+          78.4800033569336,
+          15.008622169494629,
+          146.6645965576172
+        ]
+      ]
+    },
+    "PART_05_trunk_base_power_support": {
+      "description": "Existing battery restraint preserved; four external M2 clearance-hole ears added for a removable cover; holes remain outside battery cavity",
+      "parent": "LINK_trunk_base",
+      "volume_mm3": 25505.215685295203,
+      "watertight": true,
+      "export_stl_watertight": true,
+      "bounds_mm": [
+        [
+          -52.0,
+          -27.24898338317871,
+          -46.5
+        ],
+        [
+          8.0,
+          27.25,
+          39.3701057434082
+        ]
+      ]
+    },
+    "R9_BATTERY_REAR_COVER": {
+      "description": "2mm removable rear cover; four M2 through holes; 16x8mm top-open wire exit; optional D3 tie holes; battery remains retained by original cradle and straps; Corners relieved for sampled baseline-enclosure-clear leg motions; full-range collision-free operation is not certified",
+      "parent": "LINK_trunk_base",
+      "volume_mm3": 5809.390798348507,
+      "watertight": true,
+      "export_stl_watertight": true,
+      "bounds_mm": [
+        [
+          -54.400001525878906,
+          -21.100000381469727,
+          -46.5
+        ],
+        [
+          -52.400001525878906,
+          21.100000381469727,
+          35.5
+        ]
+      ]
+    }
+  },
+  "decisions": [
+    {
+      "part": "R9_OV5647_CAMERA_CARRIER",
+      "decision": "discard disconnected obsolete M12 sleeve remnants",
+      "removed_fragment_volumes_mm3": [
+        384.34510764941086
+      ]
+    }
+  ],
+  "camera": {
+    "pcb_size_mm": [
+      25,
+      24
+    ],
+    "module_depth_mm": 9,
+    "hole_diameter_mm": 2,
+    "hole_pitch_mm": [
+      21,
+      12.5
+    ],
+    "hole_centres_parent_yz_mm": [
+      [
+        -10.591378092765808,
+        130.3646011352539
+      ],
+      [
+        -10.591378092765808,
+        142.8646011352539
+      ],
+      [
+        10.408621907234192,
+        130.3646011352539
+      ],
+      [
+        10.408621907234192,
+        142.8646011352539
+      ]
+    ],
+    "lens_centre_from_board_bottom_mm": 10.25,
+    "pcb_thickness_assumed_mm": 1.2,
+    "rear_clearance_design_mm": 3,
+    "extra_rearward_shift_mm": 0
+  },
+  "battery": {
+    "nominal_mm": [
+      19,
+      37,
+      66
+    ],
+    "cover_wall_mm": 2,
+    "rear_gap_mm": 4.5,
+    "wire_exit_mm": [
+      16,
+      8
+    ],
+    "fastener_holes_mm": 2.4,
+    "screw_centres_parent_yz_mm": [
+      [
+        -14,
+        -43
+      ],
+      [
+        -14,
+        32
+      ],
+      [
+        14,
+        -43
+      ],
+      [
+        14,
+        32
+      ]
+    ],
+    "advertised_output_A": 3
+  },
+  "manufacturing_release": false,
+  "physical_fit_verified": false,
+  "electrical_release": false,
+  "deferred_parts": {
+    "PART_15_upper_leg_left_upper_leg_rigidity_plate": "Uniform/local axial thickening rejected: new sampled bearing interferences; retain original geometry pending complete bearing/servo stack redesign and physical trial.",
+    "PART_49_upper_leg_right_upper_leg_rigidity_plate": "Uniform/local axial thickening rejected: new sampled bearing interferences; retain original geometry pending complete bearing/servo stack redesign and physical trial."
+  },
+  "motion_refinement": {
+    "changes": [
+      {
+        "name": "PART_15_upper_leg_left_upper_leg_rigidity_plate",
+        "decision": "RETAIN_ORIGINAL_GEOMETRY",
+        "reason": "No sufficiently connected reinforcement remained after sampled bearing clearance relief; no unsupported thickening adopted"
+      },
+      {
+        "name": "PART_49_upper_leg_right_upper_leg_rigidity_plate",
+        "decision": "RETAIN_ORIGINAL_GEOMETRY",
+        "reason": "No sufficiently connected reinforcement remained after sampled bearing clearance relief; no unsupported thickening adopted"
+      },
+      {
+        "name": "R9_BATTERY_REAR_COVER",
+        "before_mm3": 5809.390798348507,
+        "after_mm3": 5809.390798348507,
+        "reason": "Corners relieved for sampled baseline-enclosure-clear leg motions; full-range collision-free operation is not certified"
+      }
+    ],
+    "cover_reliefs": [],
+    "already_body_blocked_cases": [
+      {
+        "pose": "random:0",
+        "other": "PART_49_upper_leg_right_upper_leg_rigidity_plate",
+        "existing_body_overlap_mm3": 146.34932919608306
+      },
+      {
+        "pose": "random:0",
+        "other": "PART_50_upper_leg_right_upper_leg_right",
+        "existing_body_overlap_mm3": 896.7231328302896
+      },
+      {
+        "pose": "random:0",
+        "other": "SERVO_HD1910_14_upper_leg_right",
+        "existing_body_overlap_mm3": 11064.382917250317
+      },
+      {
+        "pose": "random:2",
+        "other": "PART_48_upper_leg_right_seeed_bearing__configuration__22x16x4",
+        "existing_body_overlap_mm3": 184.73270445376252
+      },
+      {
+        "pose": "random:2",
+        "other": "PART_49_upper_leg_right_upper_leg_rigidity_plate",
+        "existing_body_overlap_mm3": 425.1539640432474
+      },
+      {
+        "pose": "random:2",
+        "other": "PART_50_upper_leg_right_upper_leg_right",
+        "existing_body_overlap_mm3": 216.33149937334548
+      },
+      {
+        "pose": "random:2",
+        "other": "SERVO_HD1910_13_upper_leg_right",
+        "existing_body_overlap_mm3": 5968.54274588968
+      },
+      {
+        "pose": "random:13",
+        "other": "PART_49_upper_leg_right_upper_leg_rigidity_plate",
+        "existing_body_overlap_mm3": 24.638780026760973
+      },
+      {
+        "pose": "random:13",
+        "other": "SERVO_HD1910_14_upper_leg_right",
+        "existing_body_overlap_mm3": 279.69607074071916
+      }
+    ]
+  }
+}

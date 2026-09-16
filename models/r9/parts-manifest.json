@@ -1,0 +1,314 @@
+[
+  {
+    "object": "PART_02_trunk_base_right_shell",
+    "file": "stl/PART_02_trunk_base_right_shell.stl",
+    "triangles": 22362,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "de8813628c9683194d4a0b10a9a870535b140ccec925bd5380da956920e0fb33"
+  },
+  {
+    "object": "PART_03_trunk_base_banana_pcb_locker",
+    "file": "stl/PART_03_trunk_base_banana_pcb_locker.stl",
+    "triangles": 1776,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "d18f65cbc502bd3a9041601e5dfd87a8df24f5b9ed4df74b634d07fb31e3c0db"
+  },
+  {
+    "object": "PART_04_trunk_base_trunk_base",
+    "file": "stl/PART_04_trunk_base_trunk_base.stl",
+    "triangles": 3660,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "7958da27de116c9b22d3e2917910b27a10dc66e4848b47cf8f16809e546c6309"
+  },
+  {
+    "object": "PART_05_trunk_base_power_support",
+    "file": "stl/PART_05_trunk_base_power_support.stl",
+    "triangles": 19532,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "4b5f140707d06e1403315dbeda5effda149fcf71bc58d838a52b7019054d74df"
+  },
+  {
+    "object": "PART_07_trunk_base_left_shell",
+    "file": "stl/PART_07_trunk_base_left_shell.stl",
+    "triangles": 22010,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "2feb58813a4b71a024b6a4d62fb2e156f745a92adbe92a5d2287ed3b8833a019"
+  },
+  {
+    "object": "PART_09_yaw2roll_yaw2roll",
+    "file": "stl/PART_09_yaw2roll_yaw2roll.stl",
+    "triangles": 12610,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "6780ba6cd9a79d21a2357c6f9804a17f3a218b2595a4cd79c566edd007b01923"
+  },
+  {
+    "object": "PART_11_yaw2roll_bearing_roll",
+    "file": "stl/PART_11_yaw2roll_bearing_roll.stl",
+    "triangles": 2416,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "22277da73c01fd9760764c0ee9155d71b21bbfc548c8eb263330b570e3e8521f"
+  },
+  {
+    "object": "PART_13_hip_l_hip_l",
+    "file": "stl/PART_13_hip_l_hip_l.stl",
+    "triangles": 20970,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "399548f4fdcd4a16b13150e45839058e699e806a206285a14871022f7436f383"
+  },
+  {
+    "object": "PART_14_upper_leg_left_upper_leg_left",
+    "file": "stl/PART_14_upper_leg_left_upper_leg_left.stl",
+    "triangles": 12250,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "4953ab15d31536a93eb01fa275a7c73e81196248b84ddb04d4e78564bf35c6ab"
+  },
+  {
+    "object": "PART_15_upper_leg_left_upper_leg_rigidity_plate",
+    "file": "stl/PART_15_upper_leg_left_upper_leg_rigidity_plate.stl",
+    "triangles": 3600,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "0670bfbb67c290192e296411f960a3990287e8125af59fb9d105d1b3894a4716"
+  },
+  {
+    "object": "PART_17_leg_leg",
+    "file": "stl/PART_17_leg_leg.stl",
+    "triangles": 15276,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "feea0ed3dbd04d75e1705fc1499cb1ab0beffa6add33928e9eeb274e2ace777c"
+  },
+  {
+    "object": "PART_18_ankle_left_sole_left",
+    "file": "stl/PART_18_ankle_left_sole_left.stl",
+    "triangles": 15788,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "10c2992321d5253135b53afd542983165357a918ff5dca235b99e882ddd39bff"
+  },
+  {
+    "object": "PART_19_ankle_left_foot_left",
+    "file": "stl/PART_19_ankle_left_foot_left.stl",
+    "triangles": 19882,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "d0d1d1080591f6a6c9418c25a4f47eca497e7231c7c1ba837865763ac86b4564"
+  },
+  {
+    "object": "PART_21_ankle_left_ankle_left",
+    "file": "stl/PART_21_ankle_left_ankle_left.stl",
+    "triangles": 4978,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "ad535fc135cefc9ca9d305889f4856df057ce299414911194476f003883d5d34"
+  },
+  {
+    "object": "PART_22_neck_neck",
+    "file": "stl/PART_22_neck_neck.stl",
+    "triangles": 1468,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "a064572b19fba2d2d854d9e48deb39f418eae96eba2b3098962039540be83408"
+  },
+  {
+    "object": "PART_23_neck_neck",
+    "file": "stl/PART_23_neck_neck.stl",
+    "triangles": 1468,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "e8933c879a094d9c6f2b19eb5ce3bf41862160c057c845b90ca7ce7a7bd715bd"
+  },
+  {
+    "object": "PART_24_neck_pitch_neck_pitch",
+    "file": "stl/PART_24_neck_pitch_neck_pitch.stl",
+    "triangles": 7120,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "e2cec9cb711da8aa9a24eb5c8553b0d4d34c378f88b335cc04f7055cb881bfe1"
+  },
+  {
+    "object": "PART_26_yaw_roll_motion_yaw_roll_motion",
+    "file": "stl/PART_26_yaw_roll_motion_yaw_roll_motion.stl",
+    "triangles": 10116,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "19abd2fdf06ce867691d80d10a7c30102a7941495268f1f290753ec2406238c4"
+  },
+  {
+    "object": "PART_30_jaw_soft_face_part",
+    "file": "stl/PART_30_jaw_soft_face_part.stl",
+    "triangles": 10808,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "78b00942d972b62d2b882cadc6dc913c40aea1f125a5e2a14d777ce9cbd6c4b9"
+  },
+  {
+    "object": "PART_31_jaw_soft_jaw_soft",
+    "file": "stl/PART_31_jaw_soft_jaw_soft.stl",
+    "triangles": 6726,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "ae5d706a8fc9ee5973a281a43f1ec9cc35a62dc4b9096a28b86a494a09d53cd3"
+  },
+  {
+    "object": "PART_32_jaw_soft_motor_support",
+    "file": "stl/PART_32_jaw_soft_motor_support.stl",
+    "triangles": 15638,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "6735475c312d64bd7bd0ee838f61344a0d53814fa9c968dc675d4ff4aaa278ae"
+  },
+  {
+    "object": "PART_33_jaw_soft_top_head_shell",
+    "file": "stl/PART_33_jaw_soft_top_head_shell.stl",
+    "triangles": 16120,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "1a20d17a0cce20f5441e4c17790615b8a8c212f0d29a34b5496ded33a7232d07"
+  },
+  {
+    "object": "PART_36_jaw_soft_soft_mouth_top",
+    "file": "stl/PART_36_jaw_soft_soft_mouth_top.stl",
+    "triangles": 7870,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "18f65a396b5bb6af143064208d57d9bae1f2c67fecfa2f3bd58ec949bced53d1"
+  },
+  {
+    "object": "PART_37_jaw_soft_noenoeil",
+    "file": "stl/PART_37_jaw_soft_noenoeil.stl",
+    "triangles": 984,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "58104b9fd555926d87f2c2445e0bb25e09b5b29ae64cc02d8a3f86082c9b2c71"
+  },
+  {
+    "object": "PART_38_jaw_soft_jaw",
+    "file": "stl/PART_38_jaw_soft_jaw.stl",
+    "triangles": 9918,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "82cfcb13c03301bdf8946cdbad363f6d67298e8e6311630f5eb58eddf87481ae"
+  },
+  {
+    "object": "PART_39_jaw_soft_bottom_head_shell",
+    "file": "stl/PART_39_jaw_soft_bottom_head_shell.stl",
+    "triangles": 20970,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "640b11a0b6d9cba13731d0ad60af43582b6f14bcb056a95f8e8eec5a0eca85f5"
+  },
+  {
+    "object": "PART_43_bearing_roll_yaw2roll",
+    "file": "stl/PART_43_bearing_roll_yaw2roll.stl",
+    "triangles": 14594,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "cd947cafa64fd4b788269a8cd8a31260618c3be3d40e69edba9337f64b0b5b3d"
+  },
+  {
+    "object": "PART_44_bearing_roll_bearing_roll",
+    "file": "stl/PART_44_bearing_roll_bearing_roll.stl",
+    "triangles": 2414,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "7cca9e571ac2da9c4530f354961a4ca383f198d227bbd7c184873b90d2f48c0f"
+  },
+  {
+    "object": "PART_46_hip_l_2_hip_l",
+    "file": "stl/PART_46_hip_l_2_hip_l.stl",
+    "triangles": 20970,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "17bc4c04ec37b80932ce531a483ef17f8f1563eaf813096ee9dcf56c7d77abf2"
+  },
+  {
+    "object": "PART_49_upper_leg_right_upper_leg_rigidity_plate",
+    "file": "stl/PART_49_upper_leg_right_upper_leg_rigidity_plate.stl",
+    "triangles": 3600,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "b94e8d94ce537c0934a0eb892db54ec1b1d47b95d19c2b7a9c26eb2930e80b8e"
+  },
+  {
+    "object": "PART_50_upper_leg_right_upper_leg_right",
+    "file": "stl/PART_50_upper_leg_right_upper_leg_right.stl",
+    "triangles": 12250,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "10dfa9c3441d084de2344fb66758647d55817359006b6e6e8012db22f5f66a20"
+  },
+  {
+    "object": "PART_51_leg_2_leg",
+    "file": "stl/PART_51_leg_2_leg.stl",
+    "triangles": 15792,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "c4e55942bad3f3ab3b10147b6bac454608197b61325f9035e562a8de03a5d1a7"
+  },
+  {
+    "object": "PART_52_ankle_right_ankle_right",
+    "file": "stl/PART_52_ankle_right_ankle_right.stl",
+    "triangles": 4976,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "2e83926d38f0d286ff65e7f63b5a0e2b7567f711b4c38ab882e97f4faf2d08dd"
+  },
+  {
+    "object": "PART_53_ankle_right_sole_right",
+    "file": "stl/PART_53_ankle_right_sole_right.stl",
+    "triangles": 15888,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "7383d8e625561e7c10dfeb8d23f48c5140d5eca0be0cfa8c9c552f506f65ee13"
+  },
+  {
+    "object": "PART_55_ankle_right_foot_right",
+    "file": "stl/PART_55_ankle_right_foot_right.stl",
+    "triangles": 19878,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "7845b5aeaecc979965803e08b52340e0e1563021806a922284d770c955b41088"
+  },
+  {
+    "object": "R7_BNO_EDGE_CLAMP",
+    "file": "stl/R7_BNO_EDGE_CLAMP.stl",
+    "triangles": 404,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "292c243141f326fc7e67c468ca1aa3e139a4dea2d9702bccf0773506c665bf7a"
+  },
+  {
+    "object": "R7_SWITCH_RETAINING_PLATE",
+    "file": "stl/R7_SWITCH_RETAINING_PLATE.stl",
+    "triangles": 456,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "56b6f2b6cf5e11ac5369bfb812418f81f3d4d6bae77f00aa1a91f4647eb647a5"
+  },
+  {
+    "object": "R9_BATTERY_REAR_COVER",
+    "file": "stl/R9_BATTERY_REAR_COVER.stl",
+    "triangles": 2436,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "43476c721dd48609128c4cd05782c0ea9c7aac6bc9e23b71dec3dba2065232af"
+  },
+  {
+    "object": "R9_OV5647_CAMERA_CARRIER",
+    "file": "stl/R9_OV5647_CAMERA_CARRIER.stl",
+    "triangles": 6972,
+    "units": "mm",
+    "frame": "object-local; orient before slicing",
+    "sha256": "cda0ef1a178b89a9de98fe693690ebac6d516acdc8968651d96fc9cfead5f38c"
+  }
+]

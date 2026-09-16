@@ -1,0 +1,647 @@
+{
+  "pose_count": 235,
+  "stock_count": 7,
+  "narrow_phase_tests": 1158,
+  "hits": [
+    {
+      "pose": "left_hip_yaw:1.0:0",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "PART_15_upper_leg_left_upper_leg_rigidity_plate",
+      "added_overlap_mm3": 6.249045389584549,
+      "baseline_pair_overlap_mm3": 66.44614072357422
+    },
+    {
+      "pose": "left_hip_yaw:1.0:0",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "PART_16_upper_leg_left_seeed_bearing__configuration__22x16x4",
+      "added_overlap_mm3": 3.8381048971212137,
+      "baseline_pair_overlap_mm3": 66.53329932465704
+    },
+    {
+      "pose": "left_hip_yaw:1.0:0",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "SERVO_HD1910_04_upper_leg_left",
+      "added_overlap_mm3": 0.4052683348216869,
+      "baseline_pair_overlap_mm3": 33.74829369823604
+    },
+    {
+      "pose": "left_hip_roll:1.0:0",
+      "part": "PART_44_bearing_roll_bearing_roll",
+      "other": "PART_13_hip_l_hip_l",
+      "added_overlap_mm3": 0.6585877993455892,
+      "baseline_pair_overlap_mm3": 29.376595202805465
+    },
+    {
+      "pose": "right_hip_yaw:1.0:1",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "PART_48_upper_leg_right_seeed_bearing__configuration__22x16x4",
+      "added_overlap_mm3": 3.83888497641893,
+      "baseline_pair_overlap_mm3": 66.53766602487413
+    },
+    {
+      "pose": "right_hip_yaw:1.0:1",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "PART_49_upper_leg_right_upper_leg_rigidity_plate",
+      "added_overlap_mm3": 6.249045389584552,
+      "baseline_pair_overlap_mm3": 66.44614072357429
+    },
+    {
+      "pose": "right_hip_yaw:1.0:1",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "SERVO_HD1910_13_upper_leg_right",
+      "added_overlap_mm3": 0.40526833482169033,
+      "baseline_pair_overlap_mm3": 33.748569901199794
+    },
+    {
+      "pose": "right_hip_roll:1.0:1",
+      "part": "PART_11_yaw2roll_bearing_roll",
+      "other": "PART_46_hip_l_2_hip_l",
+      "added_overlap_mm3": 0.6598614099453276,
+      "baseline_pair_overlap_mm3": 29.379976426480443
+    },
+    {
+      "pose": "left_hip_yaw:dense:0",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "PART_15_upper_leg_left_upper_leg_rigidity_plate",
+      "added_overlap_mm3": 6.249045389584549,
+      "baseline_pair_overlap_mm3": 66.44614072357422
+    },
+    {
+      "pose": "left_hip_yaw:dense:0",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "PART_16_upper_leg_left_seeed_bearing__configuration__22x16x4",
+      "added_overlap_mm3": 3.8381048971212137,
+      "baseline_pair_overlap_mm3": 66.53329932465704
+    },
+    {
+      "pose": "left_hip_yaw:dense:0",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "SERVO_HD1910_04_upper_leg_left",
+      "added_overlap_mm3": 0.4052683348216869,
+      "baseline_pair_overlap_mm3": 33.74829369823604
+    },
+    {
+      "pose": "left_hip_yaw:dense:1",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "PART_15_upper_leg_left_upper_leg_rigidity_plate",
+      "added_overlap_mm3": 2.2311500739917287,
+      "baseline_pair_overlap_mm3": 26.06750332435249
+    },
+    {
+      "pose": "left_hip_yaw:dense:1",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "PART_16_upper_leg_left_seeed_bearing__configuration__22x16x4",
+      "added_overlap_mm3": 5.647457938450225,
+      "baseline_pair_overlap_mm3": 66.31556043811818
+    },
+    {
+      "pose": "left_hip_yaw:dense:2",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "PART_16_upper_leg_left_seeed_bearing__configuration__22x16x4",
+      "added_overlap_mm3": 5.766111808212561,
+      "baseline_pair_overlap_mm3": 58.75784368906677
+    },
+    {
+      "pose": "left_hip_yaw:dense:3",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "PART_16_upper_leg_left_seeed_bearing__configuration__22x16x4",
+      "added_overlap_mm3": 3.759615238403965,
+      "baseline_pair_overlap_mm3": 45.64931366385051
+    },
+    {
+      "pose": "left_hip_yaw:dense:4",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "PART_16_upper_leg_left_seeed_bearing__configuration__22x16x4",
+      "added_overlap_mm3": 1.8956266237601107,
+      "baseline_pair_overlap_mm3": 29.63150334424675
+    },
+    {
+      "pose": "left_hip_yaw:dense:5",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "PART_16_upper_leg_left_seeed_bearing__configuration__22x16x4",
+      "added_overlap_mm3": 0.6537846759535814,
+      "baseline_pair_overlap_mm3": 14.738748656948628
+    },
+    {
+      "pose": "left_hip_yaw:dense:6",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "PART_16_upper_leg_left_seeed_bearing__configuration__22x16x4",
+      "added_overlap_mm3": 0.10648381578809533,
+      "baseline_pair_overlap_mm3": 4.38316678208958
+    },
+    {
+      "pose": "right_hip_yaw:dense:66",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "PART_48_upper_leg_right_seeed_bearing__configuration__22x16x4",
+      "added_overlap_mm3": 0.10648381707658598,
+      "baseline_pair_overlap_mm3": 4.383190920682705
+    },
+    {
+      "pose": "right_hip_yaw:dense:67",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "PART_48_upper_leg_right_seeed_bearing__configuration__22x16x4",
+      "added_overlap_mm3": 0.6537846801814098,
+      "baseline_pair_overlap_mm3": 14.738148002102825
+    },
+    {
+      "pose": "right_hip_yaw:dense:68",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "PART_48_upper_leg_right_seeed_bearing__configuration__22x16x4",
+      "added_overlap_mm3": 1.8956266191772846,
+      "baseline_pair_overlap_mm3": 29.62612699944
+    },
+    {
+      "pose": "right_hip_yaw:dense:69",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "PART_48_upper_leg_right_seeed_bearing__configuration__22x16x4",
+      "added_overlap_mm3": 3.759640469554821,
+      "baseline_pair_overlap_mm3": 45.650405657104585
+    },
+    {
+      "pose": "right_hip_yaw:dense:70",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "PART_48_upper_leg_right_seeed_bearing__configuration__22x16x4",
+      "added_overlap_mm3": 5.766851281804689,
+      "baseline_pair_overlap_mm3": 58.74780910905542
+    },
+    {
+      "pose": "right_hip_yaw:dense:71",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "PART_48_upper_leg_right_seeed_bearing__configuration__22x16x4",
+      "added_overlap_mm3": 5.648405536512933,
+      "baseline_pair_overlap_mm3": 66.31967102073803
+    },
+    {
+      "pose": "right_hip_yaw:dense:71",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "PART_49_upper_leg_right_upper_leg_rigidity_plate",
+      "added_overlap_mm3": 2.2311500739917296,
+      "baseline_pair_overlap_mm3": 26.06750332435252
+    },
+    {
+      "pose": "right_hip_yaw:dense:72",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "PART_48_upper_leg_right_seeed_bearing__configuration__22x16x4",
+      "added_overlap_mm3": 3.83888497641893,
+      "baseline_pair_overlap_mm3": 66.53766602487413
+    },
+    {
+      "pose": "right_hip_yaw:dense:72",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "PART_49_upper_leg_right_upper_leg_rigidity_plate",
+      "added_overlap_mm3": 6.249045389584552,
+      "baseline_pair_overlap_mm3": 66.44614072357429
+    },
+    {
+      "pose": "right_hip_yaw:dense:72",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "SERVO_HD1910_13_upper_leg_right",
+      "added_overlap_mm3": 0.40526833482169033,
+      "baseline_pair_overlap_mm3": 33.748569901199794
+    },
+    {
+      "pose": "random:0",
+      "part": "PART_11_yaw2roll_bearing_roll",
+      "other": "PART_46_hip_l_2_hip_l",
+      "added_overlap_mm3": 1.887182184294943,
+      "baseline_pair_overlap_mm3": 25.58017656337058
+    },
+    {
+      "pose": "random:0",
+      "part": "PART_11_yaw2roll_bearing_roll",
+      "other": "PART_47_hip_l_2_seeed_bearing__configuration__22x16x4",
+      "added_overlap_mm3": 0.6674633692315928,
+      "baseline_pair_overlap_mm3": 6.714840315793153
+    },
+    {
+      "pose": "random:0",
+      "part": "R9_BATTERY_REAR_COVER",
+      "other": "PART_49_upper_leg_right_upper_leg_rigidity_plate",
+      "added_overlap_mm3": 46.60136330618477,
+      "baseline_pair_overlap_mm3": 0.0
+    },
+    {
+      "pose": "random:0",
+      "part": "R9_BATTERY_REAR_COVER",
+      "other": "PART_50_upper_leg_right_upper_leg_right",
+      "added_overlap_mm3": 126.84064356874532,
+      "baseline_pair_overlap_mm3": 0.0
+    },
+    {
+      "pose": "random:0",
+      "part": "R9_BATTERY_REAR_COVER",
+      "other": "SERVO_HD1910_14_upper_leg_right",
+      "added_overlap_mm3": 981.0853373989257,
+      "baseline_pair_overlap_mm3": 0.0
+    },
+    {
+      "pose": "random:1",
+      "part": "PART_44_bearing_roll_bearing_roll",
+      "other": "PART_52_ankle_right_ankle_right",
+      "added_overlap_mm3": 2.0600326587947078,
+      "baseline_pair_overlap_mm3": 32.39276435862707
+    },
+    {
+      "pose": "random:1",
+      "part": "PART_44_bearing_roll_bearing_roll",
+      "other": "PART_53_ankle_right_sole_right",
+      "added_overlap_mm3": 1.2310493789638457,
+      "baseline_pair_overlap_mm3": 15.933626188723416
+    },
+    {
+      "pose": "random:1",
+      "part": "PART_44_bearing_roll_bearing_roll",
+      "other": "PART_55_ankle_right_foot_right",
+      "added_overlap_mm3": 0.15388095057945597,
+      "baseline_pair_overlap_mm3": 30.343248852587845
+    },
+    {
+      "pose": "random:2",
+      "part": "PART_05_trunk_base_power_support",
+      "other": "SERVO_HD1910_13_upper_leg_right",
+      "added_overlap_mm3": 270.2248930538975,
+      "baseline_pair_overlap_mm3": 1441.1412630638824
+    },
+    {
+      "pose": "random:2",
+      "part": "R9_BATTERY_REAR_COVER",
+      "other": "PART_48_upper_leg_right_seeed_bearing__configuration__22x16x4",
+      "added_overlap_mm3": 49.32497820559404,
+      "baseline_pair_overlap_mm3": 0.0
+    },
+    {
+      "pose": "random:2",
+      "part": "R9_BATTERY_REAR_COVER",
+      "other": "PART_49_upper_leg_right_upper_leg_rigidity_plate",
+      "added_overlap_mm3": 32.525002172810616,
+      "baseline_pair_overlap_mm3": 0.0
+    },
+    {
+      "pose": "random:2",
+      "part": "R9_BATTERY_REAR_COVER",
+      "other": "PART_50_upper_leg_right_upper_leg_right",
+      "added_overlap_mm3": 129.90314981555244,
+      "baseline_pair_overlap_mm3": 0.0
+    },
+    {
+      "pose": "random:2",
+      "part": "R9_BATTERY_REAR_COVER",
+      "other": "SERVO_HD1910_13_upper_leg_right",
+      "added_overlap_mm3": 155.05517984040372,
+      "baseline_pair_overlap_mm3": 0.0
+    },
+    {
+      "pose": "random:3",
+      "part": "PART_11_yaw2roll_bearing_roll",
+      "other": "PART_46_hip_l_2_hip_l",
+      "added_overlap_mm3": 7.230913090029723,
+      "baseline_pair_overlap_mm3": 76.31935493088334
+    },
+    {
+      "pose": "random:3",
+      "part": "PART_44_bearing_roll_bearing_roll",
+      "other": "PART_46_hip_l_2_hip_l",
+      "added_overlap_mm3": 1.4944057142864162,
+      "baseline_pair_overlap_mm3": 46.54254552730702
+    },
+    {
+      "pose": "random:4",
+      "part": "PART_11_yaw2roll_bearing_roll",
+      "other": "PART_46_hip_l_2_hip_l",
+      "added_overlap_mm3": 2.6149518932424827,
+      "baseline_pair_overlap_mm3": 57.631543880657446
+    },
+    {
+      "pose": "random:4",
+      "part": "PART_44_bearing_roll_bearing_roll",
+      "other": "PART_12_hip_l_seeed_bearing__configuration__22x16x4",
+      "added_overlap_mm3": 0.12620498911444855,
+      "baseline_pair_overlap_mm3": 1.815218571210525
+    },
+    {
+      "pose": "random:4",
+      "part": "PART_44_bearing_roll_bearing_roll",
+      "other": "PART_13_hip_l_hip_l",
+      "added_overlap_mm3": 1.8285984139181493,
+      "baseline_pair_overlap_mm3": 33.650341795390126
+    },
+    {
+      "pose": "random:4",
+      "part": "PART_44_bearing_roll_bearing_roll",
+      "other": "SERVO_HD1910_13_upper_leg_right",
+      "added_overlap_mm3": 4.963221321636684,
+      "baseline_pair_overlap_mm3": 106.02351663069547
+    },
+    {
+      "pose": "random:4",
+      "part": "PART_44_bearing_roll_bearing_roll",
+      "other": "SERVO_HD1910_14_upper_leg_right",
+      "added_overlap_mm3": 0.7845136996325583,
+      "baseline_pair_overlap_mm3": 48.94338518301139
+    },
+    {
+      "pose": "random:7",
+      "part": "PART_11_yaw2roll_bearing_roll",
+      "other": "SERVO_HD1910_05_upper_leg_left",
+      "added_overlap_mm3": 0.9653990158810195,
+      "baseline_pair_overlap_mm3": 14.720700480052866
+    },
+    {
+      "pose": "random:8",
+      "part": "PART_11_yaw2roll_bearing_roll",
+      "other": "PART_13_hip_l_hip_l",
+      "added_overlap_mm3": 2.9233723604219914,
+      "baseline_pair_overlap_mm3": 39.51481471141143
+    },
+    {
+      "pose": "random:8",
+      "part": "PART_44_bearing_roll_bearing_roll",
+      "other": "PART_13_hip_l_hip_l",
+      "added_overlap_mm3": 1.8317277906811615,
+      "baseline_pair_overlap_mm3": 32.96872804737829
+    },
+    {
+      "pose": "random:8",
+      "part": "PART_44_bearing_roll_bearing_roll",
+      "other": "SERVO_HD1910_14_upper_leg_right",
+      "added_overlap_mm3": 2.5076107139822628,
+      "baseline_pair_overlap_mm3": 87.49335316467949
+    },
+    {
+      "pose": "random:12",
+      "part": "PART_11_yaw2roll_bearing_roll",
+      "other": "PART_46_hip_l_2_hip_l",
+      "added_overlap_mm3": 1.3487614248668516,
+      "baseline_pair_overlap_mm3": 11.77720346679867
+    },
+    {
+      "pose": "random:13",
+      "part": "PART_44_bearing_roll_bearing_roll",
+      "other": "PART_13_hip_l_hip_l",
+      "added_overlap_mm3": 6.525241779098266,
+      "baseline_pair_overlap_mm3": 64.52999332903103
+    },
+    {
+      "pose": "random:13",
+      "part": "R9_BATTERY_REAR_COVER",
+      "other": "PART_49_upper_leg_right_upper_leg_rigidity_plate",
+      "added_overlap_mm3": 3.1772682390328604,
+      "baseline_pair_overlap_mm3": 0.0
+    },
+    {
+      "pose": "random:13",
+      "part": "R9_BATTERY_REAR_COVER",
+      "other": "SERVO_HD1910_14_upper_leg_right",
+      "added_overlap_mm3": 91.69667361511826,
+      "baseline_pair_overlap_mm3": 0.0
+    },
+    {
+      "pose": "random:15",
+      "part": "PART_11_yaw2roll_bearing_roll",
+      "other": "PART_13_hip_l_hip_l",
+      "added_overlap_mm3": 1.9862945285182052,
+      "baseline_pair_overlap_mm3": 17.975935307527653
+    },
+    {
+      "pose": "random:15",
+      "part": "PART_11_yaw2roll_bearing_roll",
+      "other": "SERVO_HD1910_05_upper_leg_left",
+      "added_overlap_mm3": 4.852389980369384,
+      "baseline_pair_overlap_mm3": 174.48812158947783
+    },
+    {
+      "pose": "random:18",
+      "part": "PART_11_yaw2roll_bearing_roll",
+      "other": "PART_46_hip_l_2_hip_l",
+      "added_overlap_mm3": 2.658681756305462,
+      "baseline_pair_overlap_mm3": 33.719971487217556
+    },
+    {
+      "pose": "random:18",
+      "part": "PART_11_yaw2roll_bearing_roll",
+      "other": "PART_47_hip_l_2_seeed_bearing__configuration__22x16x4",
+      "added_overlap_mm3": 0.720568037701845,
+      "baseline_pair_overlap_mm3": 4.312243580227532
+    },
+    {
+      "pose": "random:18",
+      "part": "PART_11_yaw2roll_bearing_roll",
+      "other": "SERVO_HD1910_05_upper_leg_left",
+      "added_overlap_mm3": 0.6205281437808462,
+      "baseline_pair_overlap_mm3": 49.03722763545987
+    },
+    {
+      "pose": "random:18",
+      "part": "PART_44_bearing_roll_bearing_roll",
+      "other": "PART_13_hip_l_hip_l",
+      "added_overlap_mm3": 1.3166519684287417,
+      "baseline_pair_overlap_mm3": 17.59471820385112
+    },
+    {
+      "pose": "random:19",
+      "part": "PART_11_yaw2roll_bearing_roll",
+      "other": "PART_13_hip_l_hip_l",
+      "added_overlap_mm3": 1.0961814162937056,
+      "baseline_pair_overlap_mm3": 42.15832154920046
+    },
+    {
+      "pose": "random:19",
+      "part": "PART_11_yaw2roll_bearing_roll",
+      "other": "PART_14_upper_leg_left_upper_leg_left",
+      "added_overlap_mm3": 0.7103050861776612,
+      "baseline_pair_overlap_mm3": 17.398701221148087
+    },
+    {
+      "pose": "random:19",
+      "part": "PART_11_yaw2roll_bearing_roll",
+      "other": "PART_46_hip_l_2_hip_l",
+      "added_overlap_mm3": 9.973408618202363,
+      "baseline_pair_overlap_mm3": 34.74585194449415
+    },
+    {
+      "pose": "random:19",
+      "part": "PART_44_bearing_roll_bearing_roll",
+      "other": "PART_50_upper_leg_right_upper_leg_right",
+      "added_overlap_mm3": 2.2183153735928665,
+      "baseline_pair_overlap_mm3": 16.143427525484164
+    },
+    {
+      "pose": "random:19",
+      "part": "PART_44_bearing_roll_bearing_roll",
+      "other": "SERVO_HD1910_13_upper_leg_right",
+      "added_overlap_mm3": 9.840022561738014,
+      "baseline_pair_overlap_mm3": 316.7883834678261
+    },
+    {
+      "pose": "random:22",
+      "part": "PART_11_yaw2roll_bearing_roll",
+      "other": "PART_13_hip_l_hip_l",
+      "added_overlap_mm3": 2.3638230913350937,
+      "baseline_pair_overlap_mm3": 49.1156879862972
+    },
+    {
+      "pose": "random:22",
+      "part": "PART_44_bearing_roll_bearing_roll",
+      "other": "PART_13_hip_l_hip_l",
+      "added_overlap_mm3": 1.479032127292879,
+      "baseline_pair_overlap_mm3": 24.15217983096324
+    },
+    {
+      "pose": "random:24",
+      "part": "PART_11_yaw2roll_bearing_roll",
+      "other": "PART_13_hip_l_hip_l",
+      "added_overlap_mm3": 2.3741536909447967,
+      "baseline_pair_overlap_mm3": 25.932065408333305
+    },
+    {
+      "pose": "random:24",
+      "part": "PART_44_bearing_roll_bearing_roll",
+      "other": "PART_46_hip_l_2_hip_l",
+      "added_overlap_mm3": 1.2546805096684948,
+      "baseline_pair_overlap_mm3": 7.692242670084236
+    },
+    {
+      "pose": "random:25",
+      "part": "PART_11_yaw2roll_bearing_roll",
+      "other": "PART_14_upper_leg_left_upper_leg_left",
+      "added_overlap_mm3": 0.5497835506384302,
+      "baseline_pair_overlap_mm3": 27.064932807707752
+    },
+    {
+      "pose": "random:25",
+      "part": "PART_11_yaw2roll_bearing_roll",
+      "other": "PART_15_upper_leg_left_upper_leg_rigidity_plate",
+      "added_overlap_mm3": 0.20558478206743788,
+      "baseline_pair_overlap_mm3": 1.4520383095761449
+    },
+    {
+      "pose": "random:25",
+      "part": "PART_11_yaw2roll_bearing_roll",
+      "other": "SERVO_HD1910_05_upper_leg_left",
+      "added_overlap_mm3": 4.5716364689015085,
+      "baseline_pair_overlap_mm3": 235.83302243636425
+    },
+    {
+      "pose": "random:26",
+      "part": "PART_11_yaw2roll_bearing_roll",
+      "other": "PART_13_hip_l_hip_l",
+      "added_overlap_mm3": 1.4627462417001835,
+      "baseline_pair_overlap_mm3": 10.173862431666283
+    },
+    {
+      "pose": "random:27",
+      "part": "PART_11_yaw2roll_bearing_roll",
+      "other": "PART_15_upper_leg_left_upper_leg_rigidity_plate",
+      "added_overlap_mm3": 0.6138500874383199,
+      "baseline_pair_overlap_mm3": 6.211952297146005
+    },
+    {
+      "pose": "random:27",
+      "part": "PART_11_yaw2roll_bearing_roll",
+      "other": "SERVO_HD1910_04_upper_leg_left",
+      "added_overlap_mm3": 11.763129156257612,
+      "baseline_pair_overlap_mm3": 339.9949970277664
+    },
+    {
+      "pose": "random:27",
+      "part": "PART_44_bearing_roll_bearing_roll",
+      "other": "PART_16_upper_leg_left_seeed_bearing__configuration__22x16x4",
+      "added_overlap_mm3": 1.582884552192998,
+      "baseline_pair_overlap_mm3": 6.163152980012391
+    },
+    {
+      "pose": "random:27",
+      "part": "PART_44_bearing_roll_bearing_roll",
+      "other": "SERVO_HD1910_04_upper_leg_left",
+      "added_overlap_mm3": 4.056784301789263,
+      "baseline_pair_overlap_mm3": 14.113260478890256
+    },
+    {
+      "pose": "random:29",
+      "part": "PART_11_yaw2roll_bearing_roll",
+      "other": "PART_14_upper_leg_left_upper_leg_left",
+      "added_overlap_mm3": 0.7813754656273493,
+      "baseline_pair_overlap_mm3": 1.7369203088086773
+    },
+    {
+      "pose": "random:29",
+      "part": "PART_11_yaw2roll_bearing_roll",
+      "other": "SERVO_HD1910_05_upper_leg_left",
+      "added_overlap_mm3": 5.012724632373994,
+      "baseline_pair_overlap_mm3": 211.1420504428898
+    },
+    {
+      "pose": "random:29",
+      "part": "PART_44_bearing_roll_bearing_roll",
+      "other": "PART_13_hip_l_hip_l",
+      "added_overlap_mm3": 10.10377190714311,
+      "baseline_pair_overlap_mm3": 79.2875449391846
+    }
+  ],
+  "new_pair_hits": [
+    {
+      "pose": "random:0",
+      "part": "R9_BATTERY_REAR_COVER",
+      "other": "PART_49_upper_leg_right_upper_leg_rigidity_plate",
+      "added_overlap_mm3": 46.60136330618477,
+      "baseline_pair_overlap_mm3": 0.0
+    },
+    {
+      "pose": "random:0",
+      "part": "R9_BATTERY_REAR_COVER",
+      "other": "PART_50_upper_leg_right_upper_leg_right",
+      "added_overlap_mm3": 126.84064356874532,
+      "baseline_pair_overlap_mm3": 0.0
+    },
+    {
+      "pose": "random:0",
+      "part": "R9_BATTERY_REAR_COVER",
+      "other": "SERVO_HD1910_14_upper_leg_right",
+      "added_overlap_mm3": 981.0853373989257,
+      "baseline_pair_overlap_mm3": 0.0
+    },
+    {
+      "pose": "random:2",
+      "part": "R9_BATTERY_REAR_COVER",
+      "other": "PART_48_upper_leg_right_seeed_bearing__configuration__22x16x4",
+      "added_overlap_mm3": 49.32497820559404,
+      "baseline_pair_overlap_mm3": 0.0
+    },
+    {
+      "pose": "random:2",
+      "part": "R9_BATTERY_REAR_COVER",
+      "other": "PART_49_upper_leg_right_upper_leg_rigidity_plate",
+      "added_overlap_mm3": 32.525002172810616,
+      "baseline_pair_overlap_mm3": 0.0
+    },
+    {
+      "pose": "random:2",
+      "part": "R9_BATTERY_REAR_COVER",
+      "other": "PART_50_upper_leg_right_upper_leg_right",
+      "added_overlap_mm3": 129.90314981555244,
+      "baseline_pair_overlap_mm3": 0.0
+    },
+    {
+      "pose": "random:2",
+      "part": "R9_BATTERY_REAR_COVER",
+      "other": "SERVO_HD1910_13_upper_leg_right",
+      "added_overlap_mm3": 155.05517984040372,
+      "baseline_pair_overlap_mm3": 0.0
+    },
+    {
+      "pose": "random:13",
+      "part": "R9_BATTERY_REAR_COVER",
+      "other": "PART_49_upper_leg_right_upper_leg_rigidity_plate",
+      "added_overlap_mm3": 3.1772682390328604,
+      "baseline_pair_overlap_mm3": 0.0
+    },
+    {
+      "pose": "random:13",
+      "part": "R9_BATTERY_REAR_COVER",
+      "other": "SERVO_HD1910_14_upper_leg_right",
+      "added_overlap_mm3": 91.69667361511826,
+      "baseline_pair_overlap_mm3": 0.0
+    }
+  ],
+  "method": "Deterministic forward-kinematic samples only; stock-vs-other-body overlap; no proof of continuous swept clearance or dynamics"
+}

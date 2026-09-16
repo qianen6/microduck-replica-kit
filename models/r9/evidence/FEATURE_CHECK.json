@@ -1,0 +1,55 @@
+{
+  "camera_hole_pitch_mm": [
+    21.0,
+    12.5
+  ],
+  "camera_hole_diameter_mm": 2,
+  "camera_standoff_checks": [
+    {
+      "y": -10.591378092765808,
+      "z": 130.3646011352539,
+      "support_fraction": 0.9999999999998976
+    },
+    {
+      "y": -10.591378092765808,
+      "z": 142.8646011352539,
+      "support_fraction": 0.9999999999998976
+    },
+    {
+      "y": 10.408621907234192,
+      "z": 130.3646011352539,
+      "support_fraction": 0.9999999999998976
+    },
+    {
+      "y": 10.408621907234192,
+      "z": 142.8646011352539,
+      "support_fraction": 0.9999999999998976
+    }
+  ],
+  "battery_fastener_checks": [
+    {
+      "y": -14,
+      "z": -43,
+      "annular_material_fraction": 0.9999999999999947
+    },
+    {
+      "y": -14,
+      "z": 32,
+      "annular_material_fraction": 1.0
+    },
+    {
+      "y": 14,
+      "z": -43,
+      "annular_material_fraction": 1.0
+    },
+    {
+      "y": 14,
+      "z": 32,
+      "annular_material_fraction": 1.0000000000000053
+    }
+  ],
+  "battery_cover_overlap_mm3": 0.0,
+  "battery_support_overlap_mm3": 0.0,
+  "all_revised_meshes_closed_connected": true,
+  "status": "PASS"
+}
